@@ -13,5 +13,10 @@ namespace Tech_Dashboard_Licenser
     /// </summary>
     public partial class App : Application
     {
+        protected override void OnStartup(StartupEventArgs e)
+        {
+            DAL dal = new Tech_Dashboard_Licenser.DAL();
+            dal.CheckTables();
+        }
     }
 }

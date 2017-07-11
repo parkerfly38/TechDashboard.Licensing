@@ -8,9 +8,9 @@ using System.Windows;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Tech Dashboard Licenser")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Tech Dashboard Licenser creates and manages licenses for customer companies.  The encoded string created must be placed in the appropriate key in the web.config of the Tech Dashboard WebAPI.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("JobOps")]
 [assembly: AssemblyProduct("Tech Dashboard Licenser")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]

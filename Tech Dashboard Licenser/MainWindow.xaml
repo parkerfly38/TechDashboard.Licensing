@@ -1,12 +1,22 @@
-﻿<Window x:Class="Tech_Dashboard_Licenser.MainWindow"
+﻿<Window x:Name="Tech_Dashboard_Licenser" x:Class="Tech_Dashboard_Licenser.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Tech_Dashboard_Licenser"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
-    <Grid>
-        
-    </Grid>
+        Title="Tech Dashboard Licenser" Height="768" Width="1024" Icon="td_sq_h8J_icon.ico">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="_File">
+                <MenuItem x:Name="NewLicenseMenuItem" Header="_New License" />
+                <MenuItem x:Name="ViewLicenseMenuItem" Header="_View Licenses" />
+                <MenuItem x:Name="ExportLicenseMenuItem" Header="_Export Licenses" />
+                <Separator></Separator>
+                <MenuItem x:Name="ExitMenuItem" Header="Exit" />
+            </MenuItem>
+            <MenuItem x:Name="AboutMenuItem" Header="_About" />
+        </Menu>
+        <ContentControl x:Name="contentArea"></ContentControl>
+    </DockPanel>
 </Window>

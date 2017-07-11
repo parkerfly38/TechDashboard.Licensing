@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<topics>
+  <topic id="N:Tech_Dashboard_Licenser" project="_Namespaces" file="9bba1045-a2bb-457f-4f53-035601da8c4e" sortOrder="2">
+    <topic id="T:Tech_Dashboard_Licenser.App" project="Tech Dashboard Licenser" file="3753d064-ff18-1533-b2a2-e8b856f3729e">
+      <topic id="M:Tech_Dashboard_Licenser.App.#ctor" project="Tech Dashboard Licenser" file="62fa9cbf-b707-1edd-80e0-677a6b8cb617" />
+      <topic id="Properties.T:Tech_Dashboard_Licenser.App" project="Tech Dashboard Licenser" file="1f824c79-a4ac-8d20-8905-d9b690013ea0" />
+      <topic id="Methods.T:Tech_Dashboard_Licenser.App" project="Tech Dashboard Licenser" file="2c10d664-86dd-8aad-d197-a846239b039b">
+        <topic id="M:Tech_Dashboard_Licenser.App.InitializeComponent" project="Tech Dashboard Licenser" file="8429e6a8-5d2f-9c3f-60d8-a8904e1e3eb1" />
+        <topic id="M:Tech_Dashboard_Licenser.App.Main" project="Tech Dashboard Licenser" file="94f26e79-d210-9414-142c-e1cf33ca2e68" />
+        <topic id="M:Tech_Dashboard_Licenser.App.OnStartup(System.Windows.StartupEventArgs)" project="Tech Dashboard Licenser" file="3f2db958-6da5-166b-f9d6-544fe5cb348e" />
+      </topic>
+      <topic id="Events.T:Tech_Dashboard_Licenser.App" project="Tech Dashboard Licenser" file="6a864ce0-9776-511f-fb85-673ecffc7958" />
+    </topic>
+    <topic id="T:Tech_Dashboard_Licenser.DAL" project="Tech Dashboard Licenser" file="5900fc65-ff75-b202-74e9-0223cfb384d3">
+      <topic id="M:Tech_Dashboard_Licenser.DAL.#ctor" project="Tech Dashboard Licenser" file="dc1868aa-abf5-c1a2-fcb1-cdbed86c9bae" />
+      <topic id="Methods.T:Tech_Dashboard_Licenser.DAL" project="Tech Dashboard Licenser" file="32e1e8ed-7788-1eab-901f-18da09831cf5">
+        <topic id="M:Tech_Dashboard_Licenser.DAL.CheckTables" project="Tech Dashboard Licenser" file="a8598d57-c535-5d0d-a896-8790249d8886" />
+        <topic id="M:Tech_Dashboard_Licenser.DAL.TableExists``1" project="Tech Dashboard Licenser" file="8bc76915-c607-c9b0-807a-e18f193773d2" />
+      </topic>
+    </topic>
+    <topic id="T:Tech_Dashboard_Licenser.LicenserContext" project="Tech Dashboard Licenser" file="520d2f12-fb0f-b43b-a3a3-73e166fa3d80">
+      <topic id="M:Tech_Dashboard_Licenser.LicenserContext.#ctor" project="Tech Dashboard Licenser" file="2f7dc10f-4da9-c321-944f-b769e3593005" />
+      <topic id="Properties.T:Tech_Dashboard_Licenser.LicenserContext" project="Tech Dashboard Licenser" file="1f61fd35-9c5e-35c7-d05e-d01c59615250">
+        <topic id="P:Tech_Dashboard_Licenser.LicenserContext.Licenses" project="Tech Dashboard Licenser" file="9abc6dfa-62fd-fb9e-860b-527b019f1fb5" />
+      </topic>
+      <topic id="Methods.T:Tech_Dashboard_Licenser.LicenserContext" project="Tech Dashboard Licenser" file="3b95d458-c164-90b6-7c16-6d03c3159fd1">
+        <topic id="M:Tech_Dashboard_Licenser.LicenserContext.OnModelCreating(System.Data.Entity.DbModelBuilder)" project="Tech Dashboard Licenser" file="ec831c68-beec-71b3-cf87-90330c9a4011" />
+      </topic>
+    </topic>
+    <topic id="T:Tech_Dashboard_Licenser.MainWindow" project="Tech Dashboard Licenser" file="f698f6ab-897a-2de2-0d04-e6baf6168608">
+      <topic id="M:Tech_Dashboard_Licenser.MainWindow.#ctor" project="Tech Dashboard Licenser" file="e173fcda-5b4f-56a1-3f89-f65757aceb54" />
+      <topic id="Properties.T:Tech_Dashboard_Licenser.MainWindow" project="Tech Dashboard Licenser" file="4543750c-cb0b-d166-e257-fff8e8e6a3d7" />
+      <topic id="Methods.T:Tech_Dashboard_Licenser.MainWindow" project="Tech Dashboard Licenser" file="fc7f5b9e-2925-de52-0304-4e9ad861071d">
+        <topic id="M:Tech_Dashboard_Licenser.MainWindow.InitializeComponent" project="Tech Dashboard Licenser" file="5de67bc6-d9d9-d08c-3f22-65240a8202e3" />
+      </topic>
+      <topic id="Events.T:Tech_Dashboard_Licenser.MainWindow" project="Tech Dashboard Licenser" file="2c8ae70f-0dcb-c724-1fff-7d1d67a77ae1" />
+    </topic>
+    <topic id="T:Tech_Dashboard_Licenser.NewLicense" project="Tech Dashboard Licenser" file="8b510ce1-c423-607f-8287-40058bee512a">
+      <topic id="M:Tech_Dashboard_Licenser.NewLicense.#ctor" project="Tech Dashboard Licenser" file="7e57c77c-e159-1ea7-34c5-a7fc682b1237" />
+      <topic id="Properties.T:Tech_Dashboard_Licenser.NewLicense" project="Tech Dashboard Licenser" file="10b5ac5d-a437-274b-2900-b16a46697957" />
+      <topic id="Methods.T:Tech_Dashboard_Licenser.NewLicense" project="Tech Dashboard Licenser" file="a4d68c47-80df-b923-d784-7fbe1e0c91ec">
+        <topic id="M:Tech_Dashboard_Licenser.NewLicense.InitializeComponent" project="Tech Dashboard Licenser" file="204a686b-ed3b-5ed0-071b-79cdf59259a1" />
+      </topic>
+      <topic id="Events.T:Tech_Dashboard_Licenser.NewLicense" project="Tech Dashboard Licenser" file="e07e91aa-06ca-2322-c0fe-e0c258849170" />
+    </topic>
+    <topic id="T:Tech_Dashboard_Licenser.SimpleAES" project="Tech Dashboard Licenser" file="c6bc8ebb-7a65-03c0-bcfe-f3406e290060">
+      <topic id="M:Tech_Dashboard_Licenser.SimpleAES.#ctor(System.String,System.String)" project="Tech Dashboard Licenser" file="81000cf3-0d02-c380-a552-be02678049f6" />
+      <topic id="Methods.T:Tech_Dashboard_Licenser.SimpleAES" project="Tech Dashboard Licenser" file="dca07edd-dcb5-a739-a956-0e6af36d65e8">
+        <topic id="M:Tech_Dashboard_Licenser.SimpleAES.ByteArrToString(System.Byte[])" project="Tech Dashboard Licenser" file="241d12b8-86e4-0dca-eaab-998b5e1eca0c" />
+        <topic id="M:Tech_Dashboard_Licenser.SimpleAES.Decrypt(System.Byte[])" project="Tech Dashboard Licenser" file="5a09df7c-c5a7-506e-86c8-eb7e043c5922" />
+        <topic id="M:Tech_Dashboard_Licenser.SimpleAES.DecryptString(System.String)" project="Tech Dashboard Licenser" file="80719034-5c70-4087-400e-e3ce18b19af3" />
+        <topic id="M:Tech_Dashboard_Licenser.SimpleAES.Encrypt(System.String)" project="Tech Dashboard Licenser" file="c17887c0-78b8-f17a-279d-c4e4bb025f23" />
+        <topic id="M:Tech_Dashboard_Licenser.SimpleAES.EncryptToString(System.String)" project="Tech Dashboard Licenser" file="1c9e13ff-4382-5892-c4c6-a3910b7ae67b" />
+        <topic id="M:Tech_Dashboard_Licenser.SimpleAES.GenerateEncryptionKey" project="Tech Dashboard Licenser" file="0a1d57d2-93bf-c04c-5e6d-be67dc91dbf1" />
+        <topic id="M:Tech_Dashboard_Licenser.SimpleAES.GenerateEncryptionVector" project="Tech Dashboard Licenser" file="4d7747a5-c98e-6611-48ba-b75514a4f8f6" />
+        <topic id="M:Tech_Dashboard_Licenser.SimpleAES.StrToByteArray(System.String)" project="Tech Dashboard Licenser" file="fcb34635-c03c-75d3-3d0c-086aae32853d" />
+      </topic>
+    </topic>
+    <topic id="T:Tech_Dashboard_Licenser.ViewLicenses" project="Tech Dashboard Licenser" file="caa08c66-f602-cff1-8182-1ead5e0e1fe3">
+      <topic id="M:Tech_Dashboard_Licenser.ViewLicenses.#ctor" project="Tech Dashboard Licenser" file="add5a8ff-9539-09c3-800a-293a4b076297" />
+      <topic id="Properties.T:Tech_Dashboard_Licenser.ViewLicenses" project="Tech Dashboard Licenser" file="fdf391e8-9851-ea8b-61e8-9174e656297e" />
+      <topic id="Methods.T:Tech_Dashboard_Licenser.ViewLicenses" project="Tech Dashboard Licenser" file="11abefb3-7ef0-a5f9-2507-29b24c049f3c">
+        <topic id="M:Tech_Dashboard_Licenser.ViewLicenses.InitializeComponent" project="Tech Dashboard Licenser" file="fe5c5bc0-1d27-642d-7dec-e4a5078bfab3" />
+      </topic>
+      <topic id="Events.T:Tech_Dashboard_Licenser.ViewLicenses" project="Tech Dashboard Licenser" file="e70a2697-d73a-a2be-a74f-46d39c795dbe" />
+    </topic>
+  </topic>
+  <topic id="N:Tech_Dashboard_Licenser.Models" project="_Namespaces" file="53624daf-4ffe-be3a-30c4-f2e052ad8c8d">
+    <topic id="T:Tech_Dashboard_Licenser.Models.License" project="Tech Dashboard Licenser" file="cdd2d4e5-0ec7-b8e2-7c4f-6089356229b8">
+      <topic id="Overload:Tech_Dashboard_Licenser.Models.License.#ctor" project="Tech Dashboard Licenser" file="4a215ecb-74c3-3f88-e7be-57b2d9019c3e">
+        <topic id="M:Tech_Dashboard_Licenser.Models.License.#ctor" project="Tech Dashboard Licenser" file="45cddb0b-33b3-36a3-3b00-4668d58affb2" />
+        <topic id="M:Tech_Dashboard_Licenser.Models.License.#ctor(System.Int32,System.String,System.String,System.Int32,System.DateTime,System.DateTime,System.String)" project="Tech Dashboard Licenser" file="d49e1e79-c7f5-1655-53de-affa0da97ff6" />
+      </topic>
+      <topic id="Properties.T:Tech_Dashboard_Licenser.Models.License" project="Tech Dashboard Licenser" file="52b3a885-db1d-e26c-374e-ec9e65d81f24">
+        <topic id="P:Tech_Dashboard_Licenser.Models.License.CompanyName" project="Tech Dashboard Licenser" file="9487d770-f7dc-5e53-ec87-a70e275c77a8" />
+        <topic id="P:Tech_Dashboard_Licenser.Models.License.LicenseEncodedString" project="Tech Dashboard Licenser" file="1b71efdb-d8f0-986e-c062-bdd2d9870852" />
+        <topic id="P:Tech_Dashboard_Licenser.Models.License.LicenseExpirationDate" project="Tech Dashboard Licenser" file="626cdbd2-5557-8ef3-b336-aa78cba3fd35" />
+        <topic id="P:Tech_Dashboard_Licenser.Models.License.LicenseID" project="Tech Dashboard Licenser" file="340593b4-e9c2-339e-e031-ab056fb7338f" />
+        <topic id="P:Tech_Dashboard_Licenser.Models.License.LicenseIssueDate" project="Tech Dashboard Licenser" file="7074c241-b05c-1354-631d-029d6d148872" />
+        <topic id="P:Tech_Dashboard_Licenser.Models.License.TotalLicenseCount" project="Tech Dashboard Licenser" file="4b825b7c-30b3-b02f-e151-d5a555518020" />
+        <topic id="P:Tech_Dashboard_Licenser.Models.License.TypeOfLicense" project="Tech Dashboard Licenser" file="f3a963b1-1664-fbd2-49d0-f07d4faec6cb" />
+      </topic>
+      <topic id="Methods.T:Tech_Dashboard_Licenser.Models.License" project="Tech Dashboard Licenser" file="0b70d003-05ba-2cb8-cc37-8c4fe52463cb">
+        <topic id="M:Tech_Dashboard_Licenser.Models.License.ToString" project="Tech Dashboard Licenser" file="66787e88-ad84-fc33-b9be-114f0ba8e746" />
+      </topic>
+    </topic>
+  </topic>
+</topics>

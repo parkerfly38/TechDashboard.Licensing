@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<doc>
+  <assembly>
+    <name>_ProjNS_</name>
+  </assembly>
+  <members>
+    <member name="N:Tech_Dashboard_Licenser">
+      <summary />
+    </member>
+    <member name="N:Tech_Dashboard_Licenser.Models">
+      <summary />
+    </member>
+  </members>
+</doc>
